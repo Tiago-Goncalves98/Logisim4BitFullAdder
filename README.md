@@ -1,5 +1,5 @@
 # Contributors
-[Andre Gonçalves](https://github.com/AndrePG98)
+[Andre Gonçalves](https://github.com/AndrePG98) ,
 [Tiago Gonçalves](https://github.com/Tiago-Goncalves98)
 
 # Logisim4BitFullAdder
