@@ -1,3 +1,7 @@
+# Contributors
+[Andre Gonçalves](https://github.com/AndrePG98)
+[Tiago Gonçalves](https://github.com/Tiago-Goncalves98)
+
 # Logisim4BitFullAdder
 A basic 4BitFullAdder with 7 segment display for Logisim circuit simulator.
 7 Segment can disply from 30 to -15.
